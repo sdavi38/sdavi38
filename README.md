@@ -6,7 +6,8 @@
 ## What's up 👋
 Hi!, I am David Bernardo.
 I'm a systems development student 💻.
-"Learning is the key that opens doors to opportunities"
+
+-"Learning is the key that opens doors to opportunities"
 
 
 - 👨🏻‍💻 ReactJS, React Native and Node.js
