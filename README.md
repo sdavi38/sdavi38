@@ -3,9 +3,6 @@
 ### Sobre:
 • Apaixonado por tecnologias, e aprendizado. <br/>
 • Atualmente estudando ReactJS, React-Native e NextJS.<br/>
-• Trabalhando no projeto  front-end "Aqui Tem".<br/>
-• Projeto Elaborado na conlusão do curso Desenvolvimento de Sistemas.br/>
-
 
 
 ### Contatos
